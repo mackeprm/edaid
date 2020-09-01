@@ -1,7 +1,7 @@
 # edaid
 
-__edaid__
-S. ordinal. **double**
+> _edaid_
+> S. ordinal. **double**
 
 An image duplication finder in python and Qt. Not maintained!
 
@@ -14,3 +14,25 @@ If you want a feature
 2) fork the repo
 3) Open a pull request
 
+## Development
+
+This repo uses Python 3.6.8
+create a virtual env using something like:
+
+    python3 -m venv fbsenv
+
+import the requirements:
+
+    pip install -r requirements.txt
+
+and then run the project with
+
+    fbs run    
+
+If you want to create an executable run
+
+    fbs freeze
+
+see also:
+
+https://www.learnpyqt.com/courses/packaging-and-distribution/packaging-pyqt5-apps-fbs/
