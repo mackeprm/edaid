@@ -21,11 +21,11 @@ create a virtual env using something like:
 
     python3 -m venv fbsenv
 
-import the requirements:
+load the virtual env and then import the requirements:
 
     pip install -r requirements.txt
 
-and then run the project with
+Run the project with:
 
     fbs run    
 
