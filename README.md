@@ -12,7 +12,10 @@ If you want a feature
 
 1) get the code
 2) fork the repo
-3) Open a pull request
+3) Implement your feature
+4) Open a pull request
+
+Then I may consider merging the changes.
 
 ## Development
 
